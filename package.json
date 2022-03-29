@@ -1,0 +1,15 @@
+{
+  "name": "@backlight-dev/black-ghost-rvuos.sass-l1bsazgb",
+  "version": "0.0.0",
+  "description": "Sass Starter Kit for Backlight.dev",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve sVCRHm3gYPqchP73f9GS --open"
+  },
+  "dependencies": {
+    "@divriots/dockit-core": "^0.7.2",
+    "lit": "^2.2.0"
+  }
+}
